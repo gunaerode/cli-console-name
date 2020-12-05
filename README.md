@@ -24,6 +24,7 @@ $ npm whoami - To verify
 
 #### Publish package
 
+<<<<<<< HEAD
 ``` 
 $ npm link 
 ```
