@@ -1,5 +1,5 @@
 {
-  "name": "guna",
+  "name": "guna-cli",
   "version": "1.0.0",
   "description": "Display the name",
   "main": "index.js",
