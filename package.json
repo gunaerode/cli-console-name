@@ -1,0 +1,25 @@
+{
+  "name": "guna",
+  "version": "1.0.0",
+  "description": "Display the name",
+  "main": "index.js",
+  "bin": {
+    "guna": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunaerode/cli-console-name.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "gunaerode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunaerode/cli-console-name/issues"
+  },
+  "homepage": "https://github.com/gunaerode/cli-console-name#readme"
+}
